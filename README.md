@@ -1,7 +1,7 @@
 # Babywire
 a Baby SW made out of 1515 extrusion with the enclosure built in the frame very work in progress
 
-Frame 
+Frame makerbeam XL 1515:
 1x205
 4x230
 9 or 10x240
