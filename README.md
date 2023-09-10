@@ -9,3 +9,4 @@ Frame makerbeam XL 1515:
 4x295
 2x330
 4x360
+ The rar folder is the step file it is too large to upload normal si i made it into a rar folder
